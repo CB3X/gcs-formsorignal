@@ -1,0 +1,2 @@
+rootProject.name='gcs forms'
+include ':app'

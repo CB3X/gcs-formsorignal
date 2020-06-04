@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">GCSBusReport</string>
+    <string name="large_text">
+        Greenbrier County Schoools School Bus Operators Monthly Report
+        Please note all Lines are required to be filled in click the submit button at the bottom to send the completed form to the
+        Transportation Coordinator Thank you
+    </string>
+    <string name="Busno">Bus Number </string>
+    <string name="Busnoline">1. Bus Number  </string>
+    <string name="NameDriver">Name of regular driver</string>
+    <string name="forMonthB">For School Month Beginning</string>
+    <string name="forMonthE">For School Month Ending</string>
+    <string name="action_settings">Settings</string>
+    <string name="line1">Enter the information from line 1 here </string>
+    <string name="line2">Enter the information from line 2 here </string>
+    <string name="line3">Enter the information from line 3 here </string>
+    <string name="date_label_set">Press set date button to set the begining school month  </string>
+    <string name="date_button_set">Set Date</string>
+    <string name="date_view_set">The Date for the begining school month is : </string>
+    <string name="date_selected"></string>
+
+
+    <string name="school_type">Elementary School Served...</string>
+    <string name="school_typem">Middle School Served...</string>
+    <string name="school_typeh">High School Served...</string>
+    <string name="school_A">Alderson Elementary</string>
+
+    <string name="school_C">Criton Elementary School</string>
+    <string name="school_L">Lewisburg Elementary School</string>
+    <string name="school_F">Frankford Elementary School</string>
+    <string name="school_W">White Sulpher Springs Elementary School</string>
+    <string name="school_R">Ronceverte Elementary School</string>
+    <string name="school_RU">Rupert Elementary School</string>
+    <string name="school_RA">Rainelle Elementary School</string>
+    <string name="school_West">Greenbrier West High School</string>
+    <string name="school_Western">Western Greenbrier Middle School</string>
+    <string name="school_East">Greenbrier East High School School</string>
+    <string name="school_Eastern">Eastern Greenbrier Middle School</string>
+    <string name="school_S">Smoot Elementary School</string>
+    <string-array name="school">
+        <item>@string/school_type</item>
+        <item>@string/school_A</item>
+        <item>@string/school_C</item>
+        <item>@string/school_F</item>
+        <item>@string/school_L</item>
+        <item>@string/school_W</item>
+        <item>@string/school_R</item>
+        <item>@string/school_RU</item>
+        <item>@string/school_RA</item>
+        <item>@string/school_S</item>
+
+
+
+
+    </string-array>
+
+    <string-array name="schoolM">
+        <item>@string/school_typem</item>
+
+        <item>@string/school_Eastern</item>
+
+        <item>@string/school_Western</item>
+
+
+    </string-array>
+
+
+
+<string-array name="schoolh">
+<item>@string/school_typeh</item>
+    <item>@string/school_East</item>
+    <item>@string/school_West</item>
+
+
+
+
+</string-array>
+
+
+</resources>
+
